@@ -1,0 +1,2 @@
+RESOURCES_FOLDER = 'resources/'
+INVENTORY_FILE = RESOURCES_FOLDER + "inventory.json"
